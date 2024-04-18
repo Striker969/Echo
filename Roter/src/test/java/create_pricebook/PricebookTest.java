@@ -47,7 +47,7 @@ public class PricebookTest {
 		x.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']")).click();
 		x.findElement(By.xpath("//a[.='Sign Out']")).click();
 		x.findElement(By.xpath("//img[@src='themes/softed/images/select.gif']")).click();
-
+		// thank you sooo much aparna 
 	}
 
 }
