@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[this is firefox]]>
+    </line>
+    <line>
+      <![CDATA[this is firefox]]>
+    </line>
+    <line>
+      <![CDATA[logged in]]>
+    </line>
+    <line>
+      <![CDATA[logged in]]>
+    </line>
+    <line>
+      <![CDATA[logged out]]>
+    </line>
+    <line>
+      <![CDATA[logged out]]>
+    </line>
+    <line>
+      <![CDATA[logged in]]>
+    </line>
+    <line>
+      <![CDATA[logged in]]>
+    </line>
+    <line>
+      <![CDATA[logged out]]>
+    </line>
+    <line>
+      <![CDATA[logged out]]>
+    </line>
+    <line>
+      <![CDATA[browser has been closed]]>
+    </line>
+    <line>
+      <![CDATA[browser has been closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-17T17:59:02 GMT-12:00" name="Suite" finished-at="2024-04-17T17:59:30 GMT-12:00" duration-ms="27408">
+    <groups>
+    </groups>
+    <test started-at="2024-04-17T17:59:02 GMT-12:00" name="Test2" finished-at="2024-04-17T17:59:30 GMT-12:00" duration-ms="27301">
+      <class name="test.Groupexec1">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:02 GMT-12:00" name="launchbrowser" finished-at="2024-04-17T17:59:09 GMT-12:00" duration-ms="6865" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[this is firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="loginintoapp()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:09 GMT-12:00" name="loginintoapp" finished-at="2024-04-17T17:59:11 GMT-12:00" duration-ms="2097" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginintoapp -->
+        <test-method signature="def()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:11 GMT-12:00" name="def" finished-at="2024-04-17T17:59:19 GMT-12:00" duration-ms="7911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- def -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:19 GMT-12:00" name="logoutfromapp" finished-at="2024-04-17T17:59:20 GMT-12:00" duration-ms="1303" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="loginintoapp()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:20 GMT-12:00" name="loginintoapp" finished-at="2024-04-17T17:59:23 GMT-12:00" duration-ms="2406" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginintoapp -->
+        <test-method signature="hell()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:23 GMT-12:00" name="hell" finished-at="2024-04-17T17:59:27 GMT-12:00" duration-ms="4342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hell -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:27 GMT-12:00" name="logoutfromapp" finished-at="2024-04-17T17:59:28 GMT-12:00" duration-ms="1075" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.Groupexec1@7eac9008]" started-at="2024-04-17T17:59:28 GMT-12:00" name="closebrowser" finished-at="2024-04-17T17:59:30 GMT-12:00" duration-ms="1222" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser has been closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.Groupexec1 -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-04-17T17:59:02 GMT-12:00" name="Test1" finished-at="2024-04-17T17:59:30 GMT-12:00" duration-ms="27408">
+      <class name="test.Groupexec1">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:02 GMT-12:00" name="launchbrowser" finished-at="2024-04-17T17:59:09 GMT-12:00" duration-ms="6945" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[this is firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="loginintoapp()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:09 GMT-12:00" name="loginintoapp" finished-at="2024-04-17T17:59:11 GMT-12:00" duration-ms="2096" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginintoapp -->
+        <test-method signature="def()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:11 GMT-12:00" name="def" finished-at="2024-04-17T17:59:19 GMT-12:00" duration-ms="7856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- def -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:19 GMT-12:00" name="logoutfromapp" finished-at="2024-04-17T17:59:21 GMT-12:00" duration-ms="1351" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="loginintoapp()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:21 GMT-12:00" name="loginintoapp" finished-at="2024-04-17T17:59:23 GMT-12:00" duration-ms="2051" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginintoapp -->
+        <test-method signature="hell()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:23 GMT-12:00" name="hell" finished-at="2024-04-17T17:59:27 GMT-12:00" duration-ms="4472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hell -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:27 GMT-12:00" name="logoutfromapp" finished-at="2024-04-17T17:59:28 GMT-12:00" duration-ms="1338" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logged out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.Groupexec1@765d7657]" started-at="2024-04-17T17:59:28 GMT-12:00" name="closebrowser" finished-at="2024-04-17T17:59:30 GMT-12:00" duration-ms="1253" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser has been closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.Groupexec1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
