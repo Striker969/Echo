@@ -13,6 +13,7 @@ public class Actions {
 		x.get("https://demoapps.qspiders.com/ui/button/buttonRight?sublist=1");
 		x.manage().timeouts().implicitlyWait(Duration.ofSeconds(1000));
 		WebElement z = x.findElement(By.xpath("//button[@id='btn30']"));
+		//thogo guru 
 	
 	}
 
