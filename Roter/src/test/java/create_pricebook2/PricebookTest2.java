@@ -60,6 +60,7 @@ public class PricebookTest2 {
 		
 		hom.clickadministrator(driver);
 //		hom.clicksignouts();
+		//kjkjjkjkjkjkjkjkjkjkjkjj
 
 	}
 }
