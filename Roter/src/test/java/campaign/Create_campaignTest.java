@@ -67,6 +67,7 @@ public class Create_campaignTest {
 		x.findElement(By.xpath("(//input[@type='submit'])[2]")).click();
 		x.findElement(By.xpath("//img[@src='themes/softed/images/Home.PNG']")).click();
 		x.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']")).click();
-		x.findElement(By.xpath("//a[.='Sign Out']")).click();	
+		x.findElement(By.xpath("//a[.='Sign Out']")).click();
+		// i like aparna
 	}
 }
