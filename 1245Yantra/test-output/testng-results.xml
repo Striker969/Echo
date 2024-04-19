@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T13:29:03 GMT-12:00" name="Default suite" finished-at="2024-04-07T13:29:03 GMT-12:00" duration-ms="154">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T13:29:03 GMT-12:00" name="Default test" finished-at="2024-04-07T13:29:03 GMT-12:00" duration-ms="154">
+      <class name="firstPoject.Testng">
+        <test-method signature="getdata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:firstPoject.Testng@7f3b84b8]" started-at="2024-04-07T13:29:03 GMT-12:00" name="getdata" data-provider="data" finished-at="2024-04-07T13:29:03 GMT-12:00" duration-ms="23" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[possible]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="getdata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:firstPoject.Testng@7f3b84b8]" started-at="2024-04-07T13:29:03 GMT-12:00" name="getdata" data-provider="data" finished-at="2024-04-07T13:29:03 GMT-12:00" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[not possible]]>
+              </value>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="getdata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:firstPoject.Testng@7f3b84b8]" started-at="2024-04-07T13:29:03 GMT-12:00" name="getdata" data-provider="data" finished-at="2024-04-07T13:29:03 GMT-12:00" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ondhu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+      </class> <!-- firstPoject.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
